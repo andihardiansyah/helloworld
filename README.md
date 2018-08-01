@@ -1,2 +1,2 @@
-# helloworld
-html code hello world!
+# hello, world!
+html code only!
